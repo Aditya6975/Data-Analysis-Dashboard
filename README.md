@@ -15,7 +15,7 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
-
+  
 - Dashboard Interaction <a href=*https://github.com/Aditya6975/Data-Analysis-Dashboard/blob/main/Screenshot%202025-12-03%20194656.png*>View Dashboard</a>
 
 ## Process
@@ -26,4 +26,4 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 
   ## Dashboard
 
-  ![Uploading Screenshot 2025-12-03 194656.png…]()
+  <img width="1009" height="477" alt="Screenshot 2025-12-03 194656" src="https://github.com/user-attachments/assets/9d2becf1-9def-416a-afa7-e2944bdda374" />
